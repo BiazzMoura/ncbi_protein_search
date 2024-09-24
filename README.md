@@ -22,12 +22,12 @@ Para instalar e configurar o script em sua máquina local, siga as instruções 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/BiazzMoura/ncbi_protein_search.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd ncbi_protein_search
    ```
 
 3. Instale as dependências necessárias (se não estiverem instaladas):
